@@ -1,0 +1,10 @@
+C:\Users\mutlu\source\repos\Kurs2\Youtube\bin\Debug\Youtube.exe.config
+C:\Users\mutlu\source\repos\Kurs2\Youtube\bin\Debug\Youtube.exe
+C:\Users\mutlu\source\repos\Kurs2\Youtube\bin\Debug\Youtube.pdb
+C:\Users\mutlu\source\repos\Kurs2\Youtube\obj\Debug\Youtube.csprojAssemblyReference.cache
+C:\Users\mutlu\source\repos\Kurs2\Youtube\obj\Debug\Youtube.Form1.resources
+C:\Users\mutlu\source\repos\Kurs2\Youtube\obj\Debug\Youtube.Properties.Resources.resources
+C:\Users\mutlu\source\repos\Kurs2\Youtube\obj\Debug\Youtube.csproj.GenerateResource.cache
+C:\Users\mutlu\source\repos\Kurs2\Youtube\obj\Debug\Youtube.csproj.CoreCompileInputs.cache
+C:\Users\mutlu\source\repos\Kurs2\Youtube\obj\Debug\Youtube.exe
+C:\Users\mutlu\source\repos\Kurs2\Youtube\obj\Debug\Youtube.pdb
